@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gregd\\Documents\\College\\ATU\\Project\\BlazorWebAppGameTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB76BB8D-3DB8-1154-89DE-8097D6581D42}|BlazorWebAppGameTracker\\BlazorWebAppGameTracker.csproj|c:\\users\\gregd\\documents\\college\\atu\\project\\blazorwebappgametracker\\blazorwebappgametracker\\blazorwebappgametracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB76BB8D-3DB8-1154-89DE-8097D6581D42}|BlazorWebAppGameTracker\\BlazorWebAppGameTracker.csproj|solutionrelative:blazorwebappgametracker\\blazorwebappgametracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlazorWebAppGameTracker.csproj",
+              "DocumentMoniker": "C:\\Users\\gregd\\Documents\\College\\ATU\\Project\\BlazorWebAppGameTracker\\BlazorWebAppGameTracker\\BlazorWebAppGameTracker.csproj",
+              "RelativeDocumentMoniker": "BlazorWebAppGameTracker\\BlazorWebAppGameTracker.csproj",
+              "ToolTip": "C:\\Users\\gregd\\Documents\\College\\ATU\\Project\\BlazorWebAppGameTracker\\BlazorWebAppGameTracker\\BlazorWebAppGameTracker.csproj",
+              "RelativeToolTip": "BlazorWebAppGameTracker\\BlazorWebAppGameTracker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-06T16:15:34.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
